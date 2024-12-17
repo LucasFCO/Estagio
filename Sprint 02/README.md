@@ -7,7 +7,7 @@ Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Fa�
 [Curso de estatistica - Exemplos.](exercicios/curso_estatistica.ipynb)
 
 2. Segue um compilado de exercícios propostos pelo instrutor durante o curso de SQL.
-[Curso de estatistica - Exemplos.](exercicios/exercicios.sq)
+[Curso de SQL - Exercicios.](exercicios/exercicios.sq)
 # Evidências
 
 1. Teste de nomarlidade executado durante o curso de estistica. Um dos testes aplicados foi o de Shapiro-Wilk.
