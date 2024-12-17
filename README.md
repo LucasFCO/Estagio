@@ -9,8 +9,10 @@ Nos momentos de lazer, gosto de desenhar, jogar videogame e praticar atividades 
 ## Sprints 
 
 1. [Sprint 1](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2001#readme)
+2. [Sprint 2](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2002#readme)
+
 <!--
-2. [Sprint 2](Sprint%202/README.md)
+
 3. [Sprint 3](Sprint%203/README.md)
 4. ...
 
