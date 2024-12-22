@@ -1,10 +1,65 @@
 ## Apresentação
+<h1 align="center">👋 Olá, eu sou Lucas Oliveira</h1>
 
-Olá, meu nome é Lucas Felipe. Sou estudante de Engenharia de Computação na Universidade Federal de Ouro Preto, campus de João Monlevade, com previsão de formatura no primeiro semestre de 2026.
+<!-- 
+Sou estudante de 💻 Engenharia de Computação   na 🏫 Universidade Federal de Ouro Preto, campus de João Monlevade 🌍 , com previsão de formatura no primeiro semestre de 2026. -->
 
-Antes da graduação, atuei como comprador na área de Suprimentos. Durante o curso, desenvolvi habilidades em programação, dominando linguagens como C, Java, Python e seus frameworks. Atualmente, estou aprendendo alemão com o objetivo de obter a certificação A1 do Goethe-Institut.
+Meu nome é Lucas Felipe e sou natural da cidade de Acaiaca, em Minas Gerais. Atualmente, sou estudante de Engenharia de Computação na Universidade Federal de Ouro Preto (UFOP), no campus de João Monlevade. Iniciei minha graduação durante o período desafiador da pandemia, em 2020, e estou caminhando para concluir essa jornada no primeiro semestre de 2026.
+</p><br><br>
 
-Nos momentos de lazer, gosto de desenhar, jogar videogame e praticar atividades físicas. Sou torcedor do Borussia Dortmund, fã de Black Metal e apreciador massas, cafés e de cervejas fortes.
+## 🚀 Um pouco mais sobre mim:
+
+💼 Experiência profissional:
+
+Antes de iniciar a graduação em Engenharia de Computação, formei-me em Engenharia de Produção pela Fundação Educacional de Mariana. Durante dois anos, realizei estágio na área de Suprimentos no Instituto Tecnológico, onde adquiri experiência prática em compras, negociação com fornecedores e criação de dashboards. Posteriormente, atuei por dois anos na Fundação Renova como assistente e comprador, contribuindo para a execução de projetos socioambientais por meio aquisição de materiais  e serviços. Essas experiências me proporcionaram uma visão analítica e estratégica do ambiente corporativo, aprimorando minhas habilidades em negociação, planejamento e resolução de problemas.
+
+
+🔧 **Experiência acadêmica e técnica:**
+
+Durante minha graduação em Engenharia de Computação, desenvolvi sólidos conhecimentos em diversas linguagens de programação e suas aplicações práticas. Aprendi C nas disciplinas de Algoritmos e Estruturas de Dados I e II, explorando sua versatilidade na resolução de problemas computacionais e na implementação de algoritmos eficientes. 
+
+Além disso, utilizei Python e seus frameworks em disciplinas como Grafos, Inteligência Artificial e Aprendizado de Máquina, aplicando-os no desenvolvimento de projetos que envolviam análise de dados, modelagem e solução de problemas complexos. 
+Essas experiências acadêmicas não apenas ampliaram minha compreensão teórica, mas também fortaleceram minha capacidade de aplicar o conhecimento em projetos práticos e tecnológicos.
+<!--
+## 🚀 Linguagens de Programação
+Durante o curso, desenvolvi habilidades em programação, dominando linguagens como C, Java, Python e seus frameworks.
+-->
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,vscode,git,github,ubuntu,tensorflow,latex)](https://skillicons.dev)<br><br>
+
+
+💡 Áreas de interesse:
+Minha principal área de interesse é ciência de dados, onde busco compreender e aplicar técnicas para extrair valor de grandes volumes de informações. Além disso, tenho curiosidade por sistemas embarcados e me interesso pela criação de jogos, explorando a interseção entre tecnologia e criatividade.
+
+
+🌍 Habilidades e interesses:
+
+Atualmente, desenvolvi o gosto por aprender uma segunda língua, mas, ao invés de seguir a maioria e escolher o inglês, optei pelo alemão 🇩🇪. Minha decisão e os estudos começaram durante o período da greve nas universidades em 2024, e minha meta pessoal é obter a certificação A1 pelo Goethe-Institut até a metade de 2025. A escolha pelo alemão veio da minha admiração pela cultura alemã, que se fortaleceu principalmente por meio da minha paixão pelo futebol, em especial pelo Borussia Dortmund ⚫🟡. Essa conexão com o futebol me despertou um interesse profundo pela língua e pela cultura do país, o que me motivou a aprender alemão. No futuro, tenho o desejo de passar um período na Alemanha, vivenciando sua cultura de forma mais imersiva.
+
+🎨 Nos momentos de lazer:
+
+Nos momentos de lazer, gosto de desenhar, jogar videogames e praticar atividades físicas, especialmente corrida. Atualmente, dedico uma hora, dois ou três dias por semana, para correr e manter a saúde em dia. 
+<!--
+![Commits_GitHub 1](evidencias/Commits_GitHub.png);
+-->
+
+![Games](/Sprint%2001/imagens/Games.png)
+
+No universo dos videogames, sou particularmente apaixonado por jogos de ação com elementos de RPG. Entre os títulos que mais me marcaram estão Dark Souls e Sekiro, que considero verdadeiras obras-primas. Além de jogar, esses jogos me inspiram profundamente em meus desenhos, devido à riqueza de suas narrativas e estéticas.
+
+Sou também um grande apaixonado por futebol. Desde criança, sou torcedor do Cruzeiro, um amor que nasceu assistindo aos jogos pela TV, indo ao Mineirão e celebrando títulos com amigos. 
+![Games](/Sprint%2001/imagens/Cruzeiro.png)
+
+Além disso, sou um fiel torcedor do Borussia Dortmund, clube que também representa minha admiração pela cultura alemã.
+![Games](/Sprint%2001/imagens/BVB.png)
+
+Outro gosto pessoal é minha paixão pelo Black Metal. Apesar de ser um gênero musical pouco popular, sou fascinado não apenas pelo som, mas também pelas histórias, a cultura underground e a estética única que ele traz.
+
+![Games](/Sprint%2001/imagens/Musicas.png)
+
+Por fim, sou apreciador de cafés e cervejas fortes. Gosto de explorar novas experiências gastronômicas, que muitas vezes envolvem petiscos e a descoberta de novos rótulos de cervejas amargas e encorpadas. Esses momentos combinam perfeitamente com meu gosto por um bom papo e boas companhias.
+
+![Games](/Sprint%2001/imagens/Cervejas.png)
+
 
 ## Sprints 
 
