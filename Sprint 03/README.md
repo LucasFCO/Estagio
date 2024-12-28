@@ -17,6 +17,7 @@
 
 
 - Esta captura de tela mostra a diminuição do valor de loss conforme aumenta o número de iterações no treinamento de um modelo MLP, apresentada em formato gráfico.
+
 ![Evidencia 3](evidencias/evi_3.png)
 
 
