@@ -1,43 +1,34 @@
-
-# Instruções
-
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
-
 # Exercícios
 
-
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
+1. Como o instrutor não propôs exercícios, os códigos apresentados neste notebook consistem em um compilado de exemplos fornecidos por ele, abrangendo todas as seções. Todos os datasets utilizados, assim como os scripts que ele usou como módulo, estão na pasta data.zip.
+[Exemplos/Execicios](exercicios/exercicios_ia_ml.ipynb)
 
 
 
 # Evidências
 
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
+- A primeira evidência é uma matriz de correlação apresentada como um mapa de calor, destacando os valores das correlações entre os atributos em cada célula.
+![Evidencia 1](evidencias/evi_1.png)
 
 
-![Evidencia 1](evidencias/sample.webp)
+- A segunda imagem ilustra a distribuição dos clusters após o treinamento do modelo K-means no conjunto de dados Iris dataset
+![Evidencia 2](evidencias/evi_2.png)
+
+
+- Esta captura de tela mostra a diminuição do valor de loss conforme aumenta o número de iterações no treinamento de um modelo MLP, apresentada em formato gráfico.
+![Evidencia 3](evidencias/evi_3.png)
+
+
+- A última imagem exibe o código referente à instanciação e treinamento de um modelo MLP executado por 50 épocas. A representação acompanha o aumento da acurácia e a diminuição da perda ao longo do treinamento.
+![Evidencia 4](evidencias/evi_4.png)
 
 
 
 # Certificados
 
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+- Certificado do curso Formação Completa Inteligência Artificial e Machine Learning.
+![Curso ABC](certificados/Formação_em_IA_e_ML.jpg)
 
 
