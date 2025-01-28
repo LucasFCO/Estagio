@@ -93,7 +93,18 @@ O modelo MLP também foi treinado e comparado ao aos dois anteriores, com o obje
 
 # Tuning
 
+O processo de tuning, utilizando o Optuna, foi aplicado ao modelo XGBoost, que inicialmente apresentou o melhor desempenho entre os modelos testados. Além de obter os melhores resultados nas métricas estabelecidas, o XGBoost também se destacou pela rapidez na resolução da tarefa. O tuning foi realizado após vários testes manuais, com o objetivo principal de refinar ainda mais o desempenho do modelo e otimizar seus resultados.
+
 # Avaliação
+Na última seção, as métricas são apresentadas por meio de gráficos, destacando as principais métricas utilizadas nos três modelos analisados. Essas métricas, amplamente empregadas em problemas de regressão, avaliam diferentes aspectos do desempenho do modelo.
+
+As métricas consideradas como principais neste desafio foram:
+
+R²: Mede o ajuste global do modelo, indicando a proporção da variabilidade dos dados explicada pelo modelo.
+
+MAE (Mean Absolute Error): Avalia a magnitude absoluta dos erros, sendo uma métrica simples e intuitiva para compreender a precisão do modelo.
+Essas métricas fornecem uma visão abrangente e detalhada do desempenho de cada modelo, auxiliando na comparação e na escolha da abordagem mais eficiente.
+
 
 ---
 
@@ -101,5 +112,6 @@ Este projeto exemplifica o uso de técnicas modernas de ciência de dados e mach
 
 
 # Projeto 2
-[projeto_2.ipynb]
+[Projeto_2](projeto_2)
 
+<!-- [Exemplos/Execicios](exercicios/Exercicios_(compilado).ipynb) -->
