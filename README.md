@@ -68,6 +68,7 @@ Por fim, sou apreciador de cafés e cervejas fortes. Gosto de explorar novas exp
 3. [Sprint 3](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2003#readme)
 4. [Sprint 4](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2004#readme)
 5. [Sprint 5](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2005#readme)
+6. [Sprint 6](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2006#readme)
 
 
 <!--
