@@ -70,6 +70,10 @@ Por fim, sou apreciador de cafés e cervejas fortes. Gosto de explorar novas exp
 5. [Sprint 5](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2005#readme)
 6. [Sprint 6](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2006#readme)
 
+6. [Sprint 7](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2007#readme)
+
+    - Durante a sprint 7, foram abordados os cursos de AWS Bedrock e Modelagem de Risco de Crédito em Python. O curso de AWS Bedrock proporcionou conhecimentos sobre inteligência artificial generativa na AWS, com ênfase em ferramentas como Amazon Titan Image Generator v2, Claude 3 Haiku, Langchain e Streamlit, além da integração com AWS Lambda e API Gateway.
+O curso de Modelagem de Risco de Crédito em Python ensinou como os bancos utilizam ciência de dados para avaliar riscos e atender a regulamentações. Foram abordados os componentes da perda esperada (PD, LGD e EAD) e técnicas estatísticas como Regressão Logística, AUC e Gini, destacando a importância do pré-processamento de dados.
 
 <!--
 
