@@ -70,11 +70,14 @@ Por fim, sou apreciador de cafés e cervejas fortes. Gosto de explorar novas exp
 5. [Sprint 5](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2005#readme)
 6. [Sprint 6](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2006#readme)
 
-6. [Sprint 7](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2007#readme)
+7. [Sprint 7](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2007#readme)
 
     - Durante a sprint 7, foram abordados os cursos de AWS Bedrock e Modelagem de Risco de Crédito em Python. O curso de AWS Bedrock proporcionou conhecimentos sobre inteligência artificial generativa na AWS, com ênfase em ferramentas como Amazon Titan Image Generator v2, Claude 3 Haiku, Langchain e Streamlit, além da integração com AWS Lambda e API Gateway.
 O curso de Modelagem de Risco de Crédito em Python ensinou como os bancos utilizam ciência de dados para avaliar riscos e atender a regulamentações. Foram abordados os componentes da perda esperada (PD, LGD e EAD) e técnicas estatísticas como Regressão Logística, AUC e Gini, destacando a importância do pré-processamento de dados.
 
+8. [Sprint 8](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2008#readme)
+
+    - O projeto desenvolveu modelos de aprendizado de máquina para prever o risco de inadimplência de clientes da Home Credit, empresa voltada para a inclusão financeira. Diante da dificuldade de muitas pessoas em obter crédito devido à falta de histórico financeiro, a Home Credit utiliza dados alternativos, como informações transacionais e de telecomunicações, para avaliar a capacidade de pagamento. A proposta envolveu a análise e modelagem desses dados para evitar a rejeição injusta de clientes com capacidade de pagamento e oferecer empréstimos adequados às necessidades individuais.
 <!--
 
 3. [Sprint 3](Sprint%203/README.md)
