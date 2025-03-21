@@ -64,11 +64,28 @@ Por fim, sou apreciador de cafés e cervejas fortes. Gosto de explorar novas exp
 ## Sprints 
 
 1. [Sprint 1](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2001#readme)
+    - Na Sprint 1, foram abordados fundamentos essenciais para ciência de dados. O curso de Scrum apresentou o framework ágil para gerenciamento de projetos. O curso de Python ensinou desde a sintaxe básica até conceitos avançados da linguagem. Já o curso de Pandas focou na manipulação e análise de dados, com exercícios práticos. Essa sprint forneceu uma base sólida em metodologias ágeis, programação e tratamento de dados.
+
 2. [Sprint 2](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2002#readme)
+    - Nesta sprint, o foco foi a manipulação e análise de dados utilizando Python e SQL. O curso Estatística para Análise de Dados com Python apresentou conceitos estatísticos aplicados à ciência de dados, essenciais para interpretação e modelagem de dados em diversas áreas. Já o curso SQL para Análise de Dados aprofundou o uso da linguagem SQL para consulta e análise de bancos de dados, com exercícios práticos voltados para o mundo real. O conhecimento foi consolidado em um projeto final, com a entrega de um Jupyter Notebook e um vídeo explicativo.
+
+
 3. [Sprint 3](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2003#readme)
+    - Nesta sprint, foi introduzido o conceito de Inteligência Artificial e Machine Learning com Python. O curso abordou os fundamentos dessas tecnologias, apresentando suas aplicações e primeiros passos na construção de modelos preditivos. Esse aprendizado estabeleceu a base para explorar algoritmos e técnicas mais avançadas nas próximas etapas.
+
+
 4. [Sprint 4](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2004#readme)
+    - Nesta sprint, o foco foi o uso de Machine Learning na AWS e o aprofundamento em técnicas de modelagem preditiva. O curso de Machine Learning com Amazon AWS e SageMaker ensinou a utilizar o SageMaker para construir, treinar e implantar modelos na nuvem. Já o curso Machine Learning e Data Science com Python aprofundou conceitos de regressão e outras técnicas fundamentais. Essa etapa fortaleceu a aplicação de ML em ambiente cloud, preparando para soluções escaláveis e eficientes.
+
+
 5. [Sprint 5](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2005#readme)
+    - Nesta sprint, foi desenvolvido um projeto completo de análise e modelagem preditiva para prever preços de carros usados. O processo envolveu a seleção de variáveis relevantes, construção e avaliação de modelos de Machine Learning, além da interpretação dos resultados para gerar insights sobre os fatores que influenciam os preços. O entregável final consistiu em um Jupyter Notebook e um vídeo explicativo (10 a 20 min) detalhando a solução. Esse projeto consolidou as habilidades adquiridas ao longo das sprints anteriores, aplicando-as em um caso real.
+
+
 6. [Sprint 6](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2006#readme)
+    - Nesta sprint, foram exploradas três áreas essenciais da inteligência artificial: Processamento de Linguagem Natural (NLP) e LLMs, Reconhecimento Facial e MLOps. O curso de NLP e LLMs abordou técnicas com BERT, GPT, Spark, Spacy, Keras, Sklearn, NLTK e Hugging Face, aplicadas em projetos práticos. No curso de Reconhecimento Facial, foram utilizadas bibliotecas como OpenCV e algoritmos de Machine Learning para construir e implantar um sistema de reconhecimento facial com Flask. Já em MLOps, o foco foi na implantação e operação de modelos de Machine Learning, utilizando MLFlow para automação e gestão do ciclo de vida dos modelos. Essa sprint fortaleceu habilidades avançadas para desenvolver, implantar e escalar soluções de IA.
+
+
 
 7. [Sprint 7](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2007#readme)
 
