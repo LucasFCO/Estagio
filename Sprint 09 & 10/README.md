@@ -1,43 +1,19 @@
-
-# Instruções
-
-Neste arquivo você irá apresentar suas entregas da Sprint corrente. Observe que existem 4 diretórios no exemplo: **exercícios**, **certificados** e **evidências**.
-
- - O diretório **exercícios** corresponde ao local onde você irá adicionar o código-fonte das atividades de codificação da Sprint, quando houver.
- - O diretório **evidências** você pode utilizar para adicionar imagens demonstrando a execução/resultados de atividades, quando necessário.
- - O diretório **certificados** é o local onde você irá armazenar os certificados dos cursos solicitados durante a sprint. O nome de cada certificado de corresponder ao título do curso.
- - O diretório **desafio** é o local onde você irá armazenar a resolução do que se pede no desafio, todos recursos que você considerar importante deverá está dentro desse diretório.
-
-Utilize o arquivo README.md da Sprint para organizar todas as suas entregas. Faça referência aos arquivos de código-fonte. Evite colocar código diretamente no Markdown pois dificulta nossa avaliação.
-
-
-# Exercícios
-
-
-1. ...
-[Resposta Ex1.](exercicios/ex1.txt)
-
-
-2. ...
-[Resposta Ex2.](exercicios/ex2.txt)
-
-
-
-
 # Evidências
 
+Como evidência da preparação, apresento os prints dos seis painéis de pontuação dos simulados em português. 
 
-Ao executar o código do exercício ... observei que ... conforme podemos ver na imagem a seguir:
-
-
-![Evidencia 1](evidencias/sample.webp)
-
+![Evidencia 1](evidencias/evi-1.png)
+![Evidencia 2](evidencias/evi-2.png)
+![Evidencia 3](evidencias/evi-3.png)
+![Evidencia 4](evidencias/evi-4.png)
+![Evidencia 5](evidencias/evi-5.png)
+![Evidencia 6](evidencias/evi-6.png)
 
 
 # Certificados
 
 
-- Certificado do Curso ABC
-![Curso ABC](certificados/sample.png)
+- Certificado do Curso Certified Cloud Practitioner (CLF-C02)
+![Curso ABC](certificados/certificado_CLF-C02.jpg)
 
-
+Concluí o curso preparatorio para certificação AWS Certified Cloud Practitioner (CLF-C02), que valida o conhecimento fundamental sobre o ecossistema AWS. Esta certificação reconhecida globalmente abrange os principais conceitos da arquitetura da nuvem, incluindo infraestrutura, segurança, modelos de cobrança e melhores práticas. Essa conquista fortalece minha base em computação em nuvem, permitindo a utilização estratégica da AWS para diferentes necessidades empresariais e tecnológicas.

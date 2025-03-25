@@ -95,6 +95,10 @@ O curso de Modelagem de Risco de Crédito em Python ensinou como os bancos utili
 8. [Sprint 8](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2008#readme)
 
     - O projeto desenvolveu modelos de aprendizado de máquina para prever o risco de inadimplência de clientes da Home Credit, empresa voltada para a inclusão financeira. Diante da dificuldade de muitas pessoas em obter crédito devido à falta de histórico financeiro, a Home Credit utiliza dados alternativos, como informações transacionais e de telecomunicações, para avaliar a capacidade de pagamento. A proposta envolveu a análise e modelagem desses dados para evitar a rejeição injusta de clientes com capacidade de pagamento e oferecer empréstimos adequados às necessidades individuais.
+
+9. [Sprint 9](https://github.com/LucasFCO/Estagio/tree/main/Sprint%2009#readme)
+
+    - Nesta sprint, o foco foi a compreensão fundamental da AWS e a preparação para a certificação AWS Cloud Practitioner (CLF-C02). O curso Elementos Essenciais do AWS Cloud Practitioner abordou os principais conceitos da nuvem AWS, incluindo infraestrutura global, serviços essenciais (computação, rede, bancos de dados e armazenamento), segurança, migração e modelos de cobrança. Já o curso de certificação AWS Cloud Practitioner reforçou esses conhecimentos, preparando para o exame oficial e validando a capacidade de trabalhar com a arquitetura da nuvem AWS. Essa sprint consolidou a base necessária para a utilização estratégica da AWS em diversos cenários.
 <!--
 
 3. [Sprint 3](Sprint%203/README.md)
